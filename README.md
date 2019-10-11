@@ -13,7 +13,6 @@ Elements of reusable Object-oriented software
         * 变化的方向隐含类的责任
    + 4 **Liskov替换原则:**<br>
         * 子类必须能够替换他们的基类。<br>
-        * 继承表达类型的抽象。
    + 5 **接口隔离原则：**<br>
         * 不应该强迫客户程序依赖他们不用的方法。<br>
         * 接口应该小而完备。
