@@ -1,6 +1,6 @@
 # DesignerPatterens
 Elements of reusable Object-oriented software
-# 软件工程七大设计原则
+# 软件工程八大设计原则
 + **八大设计原则**
    + 1.**依赖倒置原则：**<br>
        * 高层模块不依赖底层模块，二者都应该依赖抽象，<br>
